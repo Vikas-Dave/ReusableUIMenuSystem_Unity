@@ -1,0 +1,14 @@
+{
+  "name": "com.VikasDave.mypackage",
+  "version": "1.0.0",
+  "displayName": "CustomUI_MenuSystem_Package",
+  "description": "A Unity package that includes a reusable UI Menu System.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "author": {
+    "name": "Vikas Dave",
+    "email": "vikasdave0511@gmail.com",
+    "url": "https://yourwebsite.com"
+  },
+  "license": "MIT"
+}
